@@ -1,0 +1,17 @@
+# Docker ignore file
+Dockerfile
+.dockerignore
+docker-compose.yml
+.git
+.gitignore
+.env
+.env*.local
+.vscode
+node_modules
+.next
+out
+coverage
+test-results
+playwright-report
+playwright/.cache
+README.md
