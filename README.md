@@ -1,4 +1,4 @@
-﻿# 🚀 Aman Soni — Full Stack Developer Portfolio 2026
+﻿#  Aman Soni — Full Stack Developer Portfolio 2026
 
 <div align="center">
 
@@ -17,7 +17,7 @@
 
 ---
 
-## ✨ Features
+##  Features
 
 | Feature | Description |
 |---|---|
@@ -110,7 +110,7 @@ portfolio-2026-aman-soni/
 
 ---
 
-## 🚀 Quick Start
+##  Quick Start
 
 ### Prerequisites
 - **Node.js** >= 18.x
